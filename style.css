@@ -1,0 +1,38 @@
+.td {
+    color:black;
+    background:cyan;
+    /* shadow stuff here */
+    border-radius: 2px;
+    /* background stuff here */
+}
+
+.jumbotron {
+
+    padding:0px;
+    text-align:center;
+    background-color: #ffffff;
+
+}
+
+.table {
+    border-collapse: separate;
+    border-spacing: 3px;
+    width: auto;
+}
+
+#game-container, .content  {
+    width: 100px;
+    height:100px;
+    text-align:center;
+}
+
+#game-container {
+    margin:10%;
+    background-color:white;
+}
+
+
+.content {
+    color:black;
+    background:cyan;
+}
